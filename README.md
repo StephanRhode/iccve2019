@@ -9,7 +9,7 @@ You need a python environment with tollboxes defined in [requirements.txt](requi
 or conde to create this environment. Then, simply run `experiment.py` to reproduce result plots of the paper.
 
 ## License
-This software is licensed under AGPL-3 license and third party licenses of used python libraries are
+This software is licensed under AGPL-3.0 license and third party licenses of used python libraries are
 * numpy | BSD3
 * scipy | BSD3
 * pytest | MIT
